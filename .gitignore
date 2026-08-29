@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+atm
+
+# Editor/OS junk
+.vscode/
+*.swp
+.DS_Store
